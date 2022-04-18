@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td>Main screen (1st page)</td>
-    <td>Main screen (2st page)</td>
+    <td>Main screen (2nd page)</td>
     <td>Character's view</td>
   </tr>
   <tr>
