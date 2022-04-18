@@ -32,4 +32,15 @@
 
 ## Выполнено
 
-в процессе
+<table>
+  <tr>
+    <td>Home</td>
+    <td>Selecting feeds by Country</td>
+    <td>Switch Countries</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/12612826/118760363-acb6a200-b840-11eb-9392-3b2e349baf31.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/12612826/118760724-4c743000-b841-11eb-8559-c56c6eb30281.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/12612826/118760366-ae806580-b840-11eb-9d29-b975e7941234.png"></td>
+  </tr>
+  <tr>
