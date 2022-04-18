@@ -34,13 +34,13 @@
 
 <table>
   <tr>
-    <td>Home</td>
-    <td>Selecting feeds by Country</td>
-    <td>Switch Countries</td>
+    <td>Main screen (1st page)</td>
+    <td>Main screen (2st page)</td>
+    <td>Character's view</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/12612826/118760363-acb6a200-b840-11eb-9392-3b2e349baf31.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/12612826/118760724-4c743000-b841-11eb-8559-c56c6eb30281.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/12612826/118760366-ae806580-b840-11eb-9d29-b975e7941234.png"></td>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr1.png"></td>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr2.png"></td>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr3.png"></td>
   </tr>
   <tr>
