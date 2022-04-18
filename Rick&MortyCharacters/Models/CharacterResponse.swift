@@ -1,5 +1,5 @@
 //
-//  API Models.swift
+//  NetworkManager.swift
 //  Rick&MortyCharacters
 //
 //  Created by mac on 15.04.2022.
@@ -32,8 +32,4 @@ public struct CharacterModel: Codable, Identifiable {
 
 public struct CharacterLocation: Codable {
     public let name: String
-}
-
-struct Episode: Codable {
-   let name: String
 }
