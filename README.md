@@ -31,6 +31,10 @@
 Реализация должна быть на языке Swift, использовать UIKit, SwiftUI не использовать.
 
 ## Выполнено
+- MVC
+- Storyboard
+- UIKit
+- URLSession
 
 <table>
   <tr>
