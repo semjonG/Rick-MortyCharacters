@@ -7,18 +7,6 @@
 
 import Foundation
 
-struct Character {
-    
-    var id: Int
-    var name: String
-    var status: String
-    var species: String
-    var gender: String
-    var location: CharacterLocation
-    var image: String
-    var episode: [String]
-}
-
 final class CharacterViewModel {
     
     var next: String = ""
