@@ -31,5 +31,20 @@
 Реализация должна быть на языке Swift, использовать UIKit, SwiftUI не использовать.
 
 ## Выполнено
+- MVC
+- Storyboard
+- UIKit
+- URLSession
 
-в процессе
+<table>
+  <tr>
+    <td>Main screen (1st page)</td>
+    <td>Main screen (2nd page)</td>
+    <td>Character's view</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr1.png"></td>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr2.png"></td>
+    <td><img src="https://raw.githubusercontent.com/semjonG/Rick-MortyCharacters/main/scr3.png"></td>
+  </tr>
+  <tr>
